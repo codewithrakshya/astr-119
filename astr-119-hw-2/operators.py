@@ -1,3 +1,4 @@
+# followed Brant's example from slide 15 of Session 2 pdf
 x = 9
 y = 3
 
