@@ -1,3 +1,4 @@
+# followed Brant's example from slide 13 of Session 3 pdf
 # define a function for flow control
 def flow_control(k):
 
