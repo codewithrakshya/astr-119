@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# followed Brant's example from slide 12 of Session 2 pdf
 import numpy as np 	# we use numpy for lots of things
 
 def main():
