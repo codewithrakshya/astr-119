@@ -1,3 +1,4 @@
+# followed Brant's example from slide 14 of Session 2 pdf
 # a while loop acts on a conditional
 # While that condition is True the program exectues and stops when false
 
