@@ -1,3 +1,4 @@
+# followed Brant's example from slide 9 of Session 3 pdf
 # functions isolate parts of code for testing
 
 import numpy as np 
